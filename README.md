@@ -12,7 +12,7 @@ My personal simple kitty configuration.
 $ yay -S kitty
 
 # Install git if you don't have it
-  $ sudo pacman -S git
+$ sudo pacman -S git
   
 $ git clone https://github.com/srcrapi/kitty-configs.git
 $ cd kitty-configs
@@ -24,7 +24,7 @@ $ cp kitty.conf ~/.config/kitty
 $ sudo apt install kitty
 
 # Install git if you don't have it
-  $ sudo apt install git
+$ sudo apt install git
   
 $ git clone https://github.com/srcrapi/kitty-configs.git
 $ cd kitty-configs
