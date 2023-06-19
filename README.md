@@ -18,7 +18,7 @@ $ git clone https://github.com/srcrapi/kitty-configs.git
 $ cd kitty-configs
 $ cp kitty/kitty.conf ~/.config/kitty
 
-# If you want the dracula theme install the zip file below and follow the steps
+# If you want the dracula theme install the zip file above and follow the steps
 $ unzip kitty-master.zip
 $ cd kitty-master
 $ cp dracula.conf diff.conf ~/.config/kitty/
@@ -36,7 +36,7 @@ $ git clone https://github.com/srcrapi/kitty-configs.git
 $ cd kitty-configs
 $ cp kitty/kitty.conf ~/.config/kitty
 
-# If you want the dracula theme install the zip file below and follow the steps
+# If you want the dracula theme install the zip file above and follow the steps
 $ unzip kitty-master.zip
 $ cd kitty-master
 $ cp dracula.conf diff.conf ~/.config/kitty/
