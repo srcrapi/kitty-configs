@@ -5,7 +5,7 @@ My personal simple kitty configuration.
 - **Terminal:** [kitty](https://github.com/kovidgoyal/kitty)
 
 <!--Instalation-->
-## Instalation of kitty.
+## Instalation
 #### Arch Linux
 ```bash
 # Arch Linux
