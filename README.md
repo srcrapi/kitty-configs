@@ -16,7 +16,7 @@ $ sudo pacman -S git
   
 $ git clone https://github.com/srcrapi/kitty-configs.git
 $ cd kitty-configs
-$ cp kitty.conf ~/.config/kitty
+$ cp kitty/kitty.conf ~/.config/kitty
 ```
 #### Ubuntu
 ```bash
@@ -28,5 +28,5 @@ $ sudo apt install git
   
 $ git clone https://github.com/srcrapi/kitty-configs.git
 $ cd kitty-configs
-cp kitty.conf ~/.config/kitty
+$ cp kitty/kitty.conf ~/.config/kitty
 ```
